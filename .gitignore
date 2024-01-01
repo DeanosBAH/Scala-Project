@@ -1,0 +1,87 @@
+# Fichiers générés par les compilateurs Scala/SBT
+*.class
+*.log
+*.cache
+*.bin
+*.lck
+*.lock
+*.xml
+*.properties
+*.options
+.project/
+.target/
+.lib/
+dist/*
+build/
+out/
+project/project/
+project/target/
+target/
+
+# Dossiers générés par SBT (Scala Build Tool)
+project/boot/
+project/plugins/project/
+
+# Fichiers et dossiers de métadonnées pour IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+*.ids
+.idea_modules/
+
+# Fichiers et dossiers de métadonnées pour Eclipse
+.eclipse
+*.pydevproject
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+*.metadata
+
+# Fichiers et dossiers de métadonnées pour NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Fichiers et dossiers de métadonnées pour Visual Studio Code
+.vscode/
+
+# Autres fichiers et dossiers à ignorer
+.DS_Store
+Thumbs.db
+*.bak
+*.swp
+*.tmp
+*~
+
+# Fichiers de logs
+*.log
+
+# Fichiers de packaging
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Fichiers temporaires générés par macOS
+._*
+
+# Fichiers temporaires générés par Windows
+desktop.ini
+
+# Fichiers de configuration de l'éditeur de texte
+*.sublime-workspace
+*.sublime-project
+
+# Fichiers de sauvegarde générés par certains éditeurs de texte
+*~
+*.bak
+*.swp
+*.tmp
